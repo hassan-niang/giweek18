@@ -66,11 +66,11 @@
     width: 130px;
     height: 40px;
     outline: none;
-    border: 1px solid #008B8B;
+    border: 1px solid black;
     border-radius: 75px;
     color: #008B8B;
     font-size: 18px;
-    background-color: #ADD8E6;
+    background-color: green;
     cursor: pointer;
 }
 
